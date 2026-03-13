@@ -1,0 +1,24 @@
+# Backend - Django
+backend/__pycache__/
+backend/*/__pycache__/
+backend/*/migrations/
+backend/db.sqlite3
+backend/static/
+backend/media/
+backend/.env
+backend/venv/
+backend/env/
+backend/.vscode/
+
+# Frontend - React Native
+frontend/node_modules/
+frontend/.expo/
+frontend/dist/
+frontend/web-build/
+frontend/.vscode/
+
+# Geral
+.DS_Store
+*.log
+.env
+.vscode/
