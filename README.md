@@ -2,16 +2,16 @@
 
 Projeto completo, App de gerenciamento de vídeos com Django + React Native.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Aplicação para cadastro de vídeos, temas e trechos importantes, com autenticação e permissões de acesso.
 
-## 🏗️ Estrutura
+## Estrutura
 
 - `/backend` - API REST desenvolvida em Django
 - `/frontend` - App mobile em React Native (Expo)
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Backend
 - Django
@@ -25,7 +25,7 @@ Aplicação para cadastro de vídeos, temas e trechos importantes, com autentica
 - TypeScript
 - Expo Router
 
-## ⚙️ Como executar
+## Como executar
 
 ### Backend
 ```bash
