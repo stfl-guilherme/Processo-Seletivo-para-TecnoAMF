@@ -1,24 +1,14 @@
-# Backend - Django
-backend/__pycache__/
-backend/*/__pycache__/
-backend/*/migrations/
-backend/db.sqlite3
-backend/static/
-backend/media/
-backend/.env
-backend/venv/
-backend/env/
-backend/.vscode/
 
-# Frontend - React Native
-frontend/node_modules/
-frontend/.expo/
-frontend/dist/
-frontend/web-build/
-frontend/.vscode/
+git add .gitignore
 
-# Geral
-.DS_Store
-*.log
-.env
-.vscode/
+git add backend/TecnoAMF/manage.py
+git add backend/TecnoAMF/core/
+git add backend/TecnoAMF/api/
+git add backend/TecnoAMF/users/
+git add backend/TecnoAMF/videos/
+git add backend/TecnoAMF/requirements.txt  # Se tiver
+
+git add frontend/appTecnoAMF/
+git add frontend/package-lock.json
+
+git add README.md
